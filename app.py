@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Azure Web App"
+    return "Azure Web App(Master)"
 
