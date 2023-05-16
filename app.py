@@ -5,3 +5,4 @@ app = Flask(__name__)
 def hello():
     return "Azure Web App(Staging)"
 
+
