@@ -3,6 +3,6 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Azure Web App(Staging)"
+    return "Staging Branch"
 
 
